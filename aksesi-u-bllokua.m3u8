@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:16.666667,
+aksesi-u-bllokua0.ts
+#EXTINF:8.333333,
+aksesi-u-bllokua1.ts
+#EXTINF:5.066667,
+aksesi-u-bllokua2.ts
+#EXT-X-ENDLIST
